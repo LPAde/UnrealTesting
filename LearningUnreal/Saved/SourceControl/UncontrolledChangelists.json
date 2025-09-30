@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/CustomBlueprints/Platform.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/CustomBlueprints/PlatformManager.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/CustomBlueprints/BP_Platform.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/CustomBlueprints/BP_PlatformManager.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/O7/8YX038SQO22J9YO702TQOT.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/IN/3GEKMAJ9UUF9SEAU06DWRL.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/7H/PBLJAY3LOROWU9VVB1V8LH.uasset",
+				"C:/Users/User/Desktop/GitHub Shit/UnrealTesting/LearningUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/7Z/PYQHSJL5ZWCD4YIHV7Q4U6.uasset"
+			]
+		}
+	]
+}
